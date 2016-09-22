@@ -12,9 +12,7 @@ public class longChipCompetition {
 		}
 	void findBeetle(){
 for (Beatle b : theBeatles) {
-			if (b) {
-				
-			}
+			
 		}
 	}
 
