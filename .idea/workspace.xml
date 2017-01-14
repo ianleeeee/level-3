@@ -2,42 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51f86215-8b7f-4938-b517-9aacf8408ff1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Algorithms.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ArrayOverload.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/BandNameGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Beatle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Chip.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/DinnerDecider.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Flight.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/FlightTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Minion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/MinionTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/SearchingAndSortingAlgorithms.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Song$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Song.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Sound.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/StringManipulator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Time.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Trip.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/arrayStuffs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/findMostFrequent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/friends.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/hangman.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/hashMaps.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/highscores.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ipodshuffle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/longChipCompetition.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/methods.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/nov11Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/numMultiplier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/poop.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/shapeCalculator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/soundTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/stakz.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/warmup.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/warmup1.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/poop.java" afterPath="$PROJECT_DIR$/src/poop.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/level-3.iml" afterPath="$PROJECT_DIR$/level-3.iml" />
     </list>
     <ignored path="level-3.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -79,17 +45,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringManipulator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringManipulator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StringManipulator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-              <folding />
+            <state relative-caret-position="105">
+              <caret line="7" column="45" selection-start-line="0" selection-start-column="23" selection-end-line="7" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shapeCalculator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/shapeCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -103,6 +90,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/poop.java" />
+        <option value="$PROJECT_DIR$/src/StringManipulatorTest.groovy" />
+        <option value="$PROJECT_DIR$/src/shapeCalculatorTest.java" />
       </list>
     </option>
   </component>
@@ -152,6 +141,24 @@
               <option name="myItemId" value="level-3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="level-3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="junit.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -187,6 +194,16 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.jan13">
     <configuration default="false" name="jan13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -638,12 +655,12 @@
       <option name="presentableId" value="Default" />
       <updated>1484356613912</updated>
       <workItem from="1484356616255" duration="51000" />
-      <workItem from="1484356816774" duration="37000" />
+      <workItem from="1484356816774" duration="522000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88000" />
+    <option name="totallyTimeSpent" value="573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="84" y="23" width="1836" height="919" extended-state="0" />
@@ -728,11 +745,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringManipulatorTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/StringManipulator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+        <state relative-caret-position="105">
+          <caret line="7" column="45" selection-start-line="0" selection-start-column="23" selection-end-line="7" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shapeCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shapeCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
